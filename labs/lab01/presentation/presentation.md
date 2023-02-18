@@ -84,7 +84,7 @@ header-includes:
 
 ![Pandoc](image/30.png){#fig:004 width=70%}
 
-## Код для формата `html`
+## Программы для работы с документацией. Texlive.
 
 ![Texlive](image/32.png){#fig:005 width=70%}
 
